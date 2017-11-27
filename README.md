@@ -21,6 +21,8 @@ The second webpage, here called `root`/scoreNPSdata, provides you with the overa
 This repository is here to be cloned, modified and re-used to allow anyone create
 their own Node-RED based application that can be quickly deployed to Bluemix.
 
+![NPS Node-Red Screenshot](nps_node-red_flow.png)
+
 The Node-Red flows are stored in the `defaults` directory in the file called `flow.json`.
 When the application is first started, this flow is copied to the attached Cloudant
 instance. Otherwise, you could copy the entire flow and paste it into Node-Red, using the import capability.
