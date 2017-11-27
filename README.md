@@ -11,9 +11,13 @@ using the Node-Red starter boilerplate.
 When you open the webpage, you are requested to evaluate EOSD department services in a scale
 from 0 to 10.
 
+https://github.com/marcodago/italycionps/blob/master/nps_score.png
+
 When you press the submit button, score is then registered, as a record, in Cloudant DB.
 
 The second webpage, show you the overall NPS score for EOSD department.
+
+https://github.com/marcodago/italycionps/blob/master/nps_gauge.png
 
 ### Customising Node-RED
 
