@@ -11,7 +11,9 @@ from 0 to 10. The defaulted webpage address name is set within Node-Red node (he
 
 ![NPS Score Screenshot](nps_score.png)
 
-When you press the submit button, score is then registered, as a record, in Cloudant DB.
+When you press the submit button, score is then registered, as a record, in Cloudant DB and a "thanks" message is then displayed to provide users with a confirmation of their evaluation.
+
+![NPS Thanks Screenshot](nps_score_thanks.png)
 
 The second webpage, here called `root`/scoreNPSdata, provides you with the overall NPS score for EOSD department.
 
